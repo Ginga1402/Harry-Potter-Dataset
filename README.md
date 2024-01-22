@@ -20,7 +20,7 @@ The primary purpose of this repository is to serve as a rich dataset for learnin
 
 ## Rights and Copyrights
 
-It's essential to acknowledge that all rights, copyrights, and authority over the Harry Potter series belong to the esteemed author, J.K. Rowling, and the publishing house. This dataset is offered solely as a medium for exploration and learning. Please respect and adhere to the terms and conditions set by the original creators.
+It's essential to acknowledge that all rights, copyrights, and authority over the Harry Potter series belong to the esteemed author, **J.K. Rowling, and the publishing house**. This dataset is offered solely as a medium for exploration and learning. Please respect and adhere to the terms and conditions set by the original creators.
 
 **Disclaimer:** This dataset is not intended for commercial use or distribution. Be sure to review and comply with the terms of use outlined by the original copyright holders.
 
