@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/Ginga1402/Harry_Potter_dataset/assets/130181481/b91d646f-74c9-4cba-95fc-538f7f85e369" >
 
 
-Welcome to the Harry Potter Novels Dataset repository! 🧙‍♂️
+Welcome to the Harry Potter Novels Dataset repository!🧙‍♂️
 
 ## Introduction
 
