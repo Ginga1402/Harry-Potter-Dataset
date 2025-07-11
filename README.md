@@ -22,7 +22,16 @@ The primary purpose of this repository is to serve as a rich dataset for learnin
 
 It's essential to acknowledge that all rights, copyrights, and authority over the Harry Potter series belong to the esteemed author, **J.K. Rowling, and the publishing house**. This dataset is offered solely as a medium for exploration and learning. Please respect and adhere to the terms and conditions set by the original creators.
 
-**Disclaimer:** This dataset is not intended for commercial use or distribution. Be sure to review and comply with the terms of use outlined by the original copyright holders.
+**NOTE:** This dataset is not intended for commercial use or distribution. Be sure to review and comply with the terms of use outlined by the original copyright holders.
+
+## Disclaimer
+
+This repository does not host or distribute the Harry Potter novels. **All rights to the Harry Potter series are owned by J.K. Rowling and the respective publishers.**
+
+This project is intended for educational purposes only and may include tools or scripts for text analysis. Users are expected to supply their own legally obtained copies of the books.
+
+No copyright infringement is intended.
+
 
 ## Contributing
 
